@@ -1,0 +1,4 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+*.iml
+/out/production/GitDemo/com/company/HelloWorld.class
